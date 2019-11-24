@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/JACKSOH/InstaCityVer4.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GORDON9839/MoonWayGravity" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="I:\" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
 </application>
